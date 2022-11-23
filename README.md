@@ -13,4 +13,8 @@
 
 Recent courses
 
-Follow Me
+### Follow Me
+
+[![VK](https://img.shields.io/badge/VK-000000?style=for-the-badge&logo=VK&logoColor=4285F4)](https://vk.com/drspect)
+[![TG](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=00FFFF)](https://t.me/DmitryFrostSTW)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://instagram.com/dmtrvtl)
