@@ -1,6 +1,7 @@
 ![Header](https://github.com/TaylorSTW/TaylorSTW/blob/main/assets/source4.gif)
 
 ## Hi there. My name is Dmitry and i am 24 y.o. I started to learn Python and here you can see my progress
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaylorSTW&show_icons=true&theme=tokyonight)](https://github.com/TaylorSTW/github-readme-stats)
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=7FFFD4)
@@ -11,7 +12,8 @@
 ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=1E90FF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=00FFFF)
 
-Recent courses
+### Recent courses
+[100 Days of Code: The Complete Python Pro Bootcamp](https://github.com/TaylorSTW/100DaysOfCodding)
 
 ### Follow Me
 
