@@ -15,6 +15,8 @@
 ### Recent courses
 [100 Days of Code: The Complete Python Pro Bootcamp](https://github.com/TaylorSTW/100DaysOfCodding)
 
+[Профессия Python-разработчик IND](https://github.com/TaylorSTW/SkyProHomeWork)
+
 ### Follow Me
 
 [![VK](https://img.shields.io/badge/VK-000000?style=for-the-badge&logo=VK&logoColor=4285F4)](https://vk.com/drspect)
