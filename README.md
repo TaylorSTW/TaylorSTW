@@ -1,6 +1,6 @@
 ![Header](https://github.com/TaylorSTW/TaylorSTW/blob/main/assets/source4.gif)
 
-## Hi there. My name is Dmitry and i am 24 y.o. I started to learn Python and here you can see my progress
+## Hi there. My name is Dmitry and i am 25 y.o. I started to learn Python and here you can see my progress
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaylorSTW&show_icons=true&theme=tokyonight)](https://github.com/TaylorSTW/github-readme-stats)
 
 ### Languages and Tools
